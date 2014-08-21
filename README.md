@@ -7,3 +7,5 @@
 
 # Screenshots
 ![](http://rutorrent.googlecode.com/svn/wiki/images/scr1_small.jpg)![](http://rutorrent.googlecode.com/svn/wiki/images/scr2_small.jpg)![](http://rutorrent.googlecode.com/svn/wiki/images/scr3_small.jpg)
+
+[![Paypal Button](https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=2KEV2MSBTF99U)
